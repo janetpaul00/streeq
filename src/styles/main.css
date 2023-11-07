@@ -3,3 +3,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* global */
+
+body {
+  @apply bg-gray-3 cursor-default text-gray-12;
+}
